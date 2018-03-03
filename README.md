@@ -3,13 +3,13 @@
 
 ### Overview HUH Experience (All 4 pillars)
 
-	A. Academic Excellence
+A. Academic Excellence
  - Time Management ==> Process information easily
-	B. Research Experience
+B. Research Experience
  - Piezoelectrics, Harmonic Drums, CERN, Random Walks
-	C. Contributions to Community
+C. Contributions to Community
  - Radio Station, Programming Board
-	D. Development as a Lifelong Learner
+D. Development as a Lifelong Learner
  - Concerts, Lectures, Conferences
 
 ### Select Specific Experience
@@ -27,7 +27,7 @@ Planning of Winter Wonder Jam
 
 ### HUH Impact and Future
  - Grad School ==> Continue Researching (hopefully Mathematical Physics)
-  -- Maybe join the Radio Station!
+ - Maybe join the Radio Station!
  - HU has helped me be more aware of more people's backgrounds
  - HUH reflections have brought my own hardwork to the forefront of my mind
  - Thankful for HUH's encouragement and support
