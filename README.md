@@ -5,10 +5,13 @@
 
 A. Academic Excellence
  - Time Management ==> Process information easily
+
 B. Research Experience
  - Piezoelectrics, Harmonic Drums, CERN, Random Walks
+
 C. Contributions to Community
  - Radio Station, Programming Board
+
 D. Development as a Lifelong Learner
  - Concerts, Lectures, Conferences
 
