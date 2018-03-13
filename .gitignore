@@ -1,0 +1,11 @@
+
+#Operational Files to Be Ignored
+*.aux
+*.log
+*.nav
+*.out
+*s.pdf
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
